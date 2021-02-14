@@ -1,5 +1,7 @@
 # Home Loan Classification Web App
 
+#This is the main branch. In the master bracnh there is a blogging app.
+
 # Requirements
 `Node JS`
 `Python`
