@@ -11,7 +11,7 @@ This project has been developed with the help of React and Django. It is a machi
 Random Forest Classifier has been used in the backend for giving the prediction result. For front-end development ReactJS has been used and for backend Django framework has been used.
 
 # Features
-1.Get probabilistic results for home approval after submitting the necessary fields in the form which has been provided on homepage.
+1.Get probabilistic results for home approval after submitting the necessary fields in the form which has been provided on homepage.\n
 2.On BatchProcessing Page get the result in the form of table with the respecctive loan id and their probabilities for getting approved in the descending order.
 
 ## Available Scripts
