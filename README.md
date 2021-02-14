@@ -7,7 +7,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project has been developed with the help of React and Django. It is a machine learning full stack web app for predicting the loan approval for home
+This project has been developed with the help of React and Django. It is a machine learning full stack web app for predicting the loan approval for home. 
+Random Forest Classifier has been used in the backend for giving the prediction result.
 
 ## Available Scripts
 
