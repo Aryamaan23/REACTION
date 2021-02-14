@@ -16,6 +16,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Few Glimpses of the Project
 
+![Screenshot (317)](https://user-images.githubusercontent.com/60667917/107890183-74e84780-6f3d-11eb-8e1a-f77682734606.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -28,6 +31,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### Run the backend by the following command:
 
 ### `python manage.py runserver`
-
 
 
