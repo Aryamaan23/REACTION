@@ -3,9 +3,11 @@
 # Requirements
 `Node JS`
 `Python`
-`Django-Framework
+`Django-Framework`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This project has been developed with the help of React and Django. It is a machine learning full stack web app for predicting the loan approval for home
 
 ## Available Scripts
 
