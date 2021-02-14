@@ -14,6 +14,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### 1.Get probabilistic results for home approval after submitting the necessary fields in the form which has been provided on homepage.
 ### 2.On BatchProcessing Page get the result in the form of table with the respecctive loan id and their probabilities for getting approved in the descending order.
 
+# Few Glimpses of the Project
+
 ## Available Scripts
 
 In the project directory, you can run:
