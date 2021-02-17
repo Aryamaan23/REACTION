@@ -3,7 +3,7 @@
 # This is the main branch. In the master bracnh there is a blogging app.
 
 # Requirements
-`Node JS`
+`React JS`
 `Python`
 `Django-Framework`
 
