@@ -1,0 +1,23 @@
+{
+  "name": "nodey",
+  "version": "1.0.0",
+  "description": "Yay, you read me!\r What is a paragraph?\r Paragraphs are comprised of sentences, but not random sentences. A paragraph is a group of sentences organized around a central topic. In fact, the cardinal rule of paragraph writing is to focus on one idea. A solidly written paragraph takes its readers on a clear path, without detours. Master the paragraph, and you’ll be on your way to writing “gold-star” essays, term papers, and stories.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aryamaan23/REACTION.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aryamaan23/REACTION/issues"
+  },
+  "homepage": "https://github.com/Aryamaan23/REACTION#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
